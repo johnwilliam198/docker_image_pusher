@@ -1,5 +1,5 @@
 hectorqin/reader:latest
-HerbertHe/iptv-sources:latest
+HerbertHe/iptv-sources
 linkease/ddnsto:latest
 WordPress/WordPress:latest
 mysql/mysql-server:latest
