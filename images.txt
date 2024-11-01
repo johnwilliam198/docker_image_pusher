@@ -1,2 +1,7 @@
 hectorqin/reader:latest
-
+HerbertHe/iptv-sources:latest
+linkease/ddnsto:latest
+WordPress/WordPress:latest
+mysql/mysql-server:latest
+DDS-Derek/xiaoya-alist:latest
+fatedier/frp:latest
