@@ -1,1 +1,1 @@
-guovern/tv-requests:latest
+dds-derek/xiaoya-alist
