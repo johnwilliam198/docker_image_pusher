@@ -1,4 +1,2 @@
-hectorqin/reader:latest
-linkease/ddnsto:latest
-DDS-Derek/xiaoya-alist:latest
-fatedier/frp:latest
+fatedier/frp
+
