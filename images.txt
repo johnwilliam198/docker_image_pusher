@@ -1,1 +1,1 @@
-dds-derek/xiaoya-alist
+immich-app/immich
