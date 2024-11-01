@@ -1,1 +1,1 @@
-guovin/tv
+guovern/tv-requests:latest
