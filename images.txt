@@ -1,1 +1,1 @@
-OpenPrinting/cups
+goosews/cups:latest
