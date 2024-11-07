@@ -1,1 +1,1 @@
-goosews/cups:latest
+xiaoyaliu/alist
