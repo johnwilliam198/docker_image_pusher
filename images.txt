@@ -1,1 +1,1 @@
-Jellyfin
+jellyfin/jellyfin
