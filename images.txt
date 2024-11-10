@@ -1,1 +1,1 @@
-wukongdaily/box:latest
+home-assistant/home-assistant:stable
