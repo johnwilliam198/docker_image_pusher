@@ -1,1 +1,1 @@
-ghcr.io/home-assistant/home-assistant
+pixman/pixman
