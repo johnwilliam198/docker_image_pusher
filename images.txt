@@ -1,1 +1,1 @@
-home-assistant/home-assistant:stable
+home-assistant/home-assistant
