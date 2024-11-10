@@ -1,1 +1,1 @@
-home-assistant/home-assistant
+ghcr.io/home-assistant/home-assistant
