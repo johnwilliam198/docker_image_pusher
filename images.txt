@@ -1,1 +1,1 @@
-ikiwihome/wiznote
+ikiwicc/wiznote:latest
