@@ -1,1 +1,1 @@
-ikiwicc/wiznote:latest
+nginx
