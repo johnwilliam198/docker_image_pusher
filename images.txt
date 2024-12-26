@@ -1,1 +1,1 @@
-stirlingtools/stirling-pdf-Fat
+stirlingtools/stirling-pdf
