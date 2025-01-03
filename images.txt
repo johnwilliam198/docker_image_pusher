@@ -1,3 +1,4 @@
+wiznote/wizserver
 stirlingtools/stirling-pdf
 guovern/iptv-api
 hanxi/xiaomusic
