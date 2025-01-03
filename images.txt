@@ -1,6 +1,7 @@
-wiznote/wizserver
-stirlingtools/stirling-pdf
-guovern/iptv-api
-hanxi/xiaomusic
-luodaoyi/kms-server
-hectorqin/reader
+deluan/navidrome
+#wiznote/wizserver
+#stirlingtools/stirling-pdf
+#guovern/iptv-api
+#hanxi/xiaomusic
+#luodaoyi/kms-server
+#hectorqin/reader
