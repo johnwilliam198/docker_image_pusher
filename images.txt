@@ -1,8 +1,9 @@
+hisatri/lrcapi:latest
 #ghcr.io/home-assistant/home-assistant
 #pixman/pixman
 #ionewu/owjdxb
 #samwaf/samwaf
-ikiwicc/wiznote:latest
+#ikiwicc/wiznote:latest
 #yuexuangu/allinone_format
 #nginx
 #fatedier/frp
