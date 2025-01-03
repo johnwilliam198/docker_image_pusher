@@ -2,3 +2,4 @@ stirlingtools/stirling-pdf
 Guovin/iptv-api
 hanxi/xiaomusic
 luodaoyi/kms-server
+hectorqin/reader
