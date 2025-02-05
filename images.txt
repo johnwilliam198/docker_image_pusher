@@ -23,5 +23,4 @@ wiznote/wizserver
 stirlingtools/stirling-pdf
 guovern/iptv-api
 hanxi/xiaomusic
-lstcml/kms
 hectorqin/reader
