@@ -5,7 +5,6 @@ ionewu/owjdxb
 samwaf/samwaf
 ikiwicc/wiznote:latest
 yuexuangu/allinone_format
-nginx
 fatedier/frp
 wordpress
 mysql
