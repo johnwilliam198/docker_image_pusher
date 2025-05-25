@@ -1,3 +1,4 @@
+operepo/ope-codecombat
 zishuo/embyserver
 hisatri/lrcapi:latest
 ghcr.io/home-assistant/home-assistant
